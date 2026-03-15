@@ -130,4 +130,4 @@ Future improvements for the smart campus could include:
 - accessibility technologies for students with disabilities.
 
 
-
+- Packet Tracer simulation: [Download Packet Tracer file](trimester_assignment.pkt)
