@@ -2,7 +2,7 @@
 
 This project presents a proposal for transforming a mid-sized university into a smart campus using networking infrastructure and Internet of Things (IoT) technologies.
 The system was designed and implemented using Cisco Packet Tracer and demonstrates how modern campus environments can integrate smart devices, sensors and automated systems to improve security, environmental control and user experience.
-This project was developed as part of the **Computing Infrastructure ** module in the **BSc (Hons) Computing programme**. The goal of the assignment was to design and simulate a smart campus infrastructure capable of supporting modern digital services and automated systems for students and staff.
+This project was developed as part of the Computing Infrastructure  module in the BSc (Hons) Computing programme. The goal of the assignment was to design and simulate a smart campus infrastructure capable of supporting modern digital services and automated systems for students and staff.
 
 ## Network Topology
 The smart campus infrastructure consists of multiple rooms connected through a structured network architecture.
