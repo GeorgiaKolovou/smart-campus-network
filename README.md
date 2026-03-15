@@ -70,7 +70,7 @@ If the card ID is 1000 or lower, the door remains locked.
 
 ![IoT System Conditions](iot-system-rules.png)
 
-The table below summarizes the automation rules used by the IoT devices in the smart campus system, including temperature control, motion detection, fire safety and RFID access control.
+The table above summarizes the automation rules used by the IoT devices in the smart campus system, including temperature control, motion detection, fire safety and RFID access control.
 
 ## System Testing
 To verify that the system works correctly, several tests were performed.
