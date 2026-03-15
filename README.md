@@ -12,11 +12,11 @@ Each room is connected to a local switch, which then connects to a main switch a
 
 ## Campus Structure
 The virtual campus environment includes:
--Three laboratories
+- Three laboratories
 
--One common student area/study room
+- One common student area/study room
 
--One IT control room
+- One IT control room
 
 Each area contains computers and smart devices connected to the campus network.
 
@@ -27,20 +27,20 @@ Heating and Cooling System:
 The first laboratory includes an automated temperature control system.
 The system works based on the temperature measured by a thermostat:
 
--If temperature ≤ 15°C → the heating system turns on
+- If temperature ≤ 15°C → the heating system turns on
 
--At 20°C → both heating and fan systems turn off
+- At 20°C → both heating and fan systems turn off
 
--If temperature is between 20°C and 25°C → the fan operates at low speed
+- If temperature is between 20°C and 25°C → the fan operates at low speed
 
--If temperature ≥ 25°C → the fan operates at high speed
+- If temperature ≥ 25°C → the fan operates at high speed
 
 ## Automatic Lighting System
 The second laboratory includes a motion-based lighting system.
 
--When motion is detected → the lights turn on
+- When motion is detected → the lights turn on
 
--When no motion is detected → the lights turn off
+- When no motion is detected → the lights turn off
 
 This system helps reduce energy consumption.
 
@@ -48,36 +48,36 @@ This system helps reduce energy consumption.
 The third laboratory includes a fire safety automation system.
 The system contains:
 
--Smoke detector
+- Smoke detector
 
--Alarm siren
+- Alarm siren
 
--Fire sprinkler system
+- Fire sprinkler system
 
--Automatic window
+- Automatic window
 
 If the smoke level exceeds 0.1:
 
--the siren is activated
+- the siren is activated
 
--the fire sprinkler system activates
+- the fire sprinkler system activates
 
--the window automatically opens
+- the window automatically opens
 
 If the smoke level is 0.1 or lower:
 
--the sprinkler and siren turn off
+- the sprinkler and siren turn off
 
--the window remains closed.
+- the window remains closed.
 
 
 ## Humidity Control System
 The common student study area contains a humidity monitoring system connected to a humidifier.
 The system operates as follows:
 
--If humidity > 70% → the humidifier turns on
+- If humidity > 70% → the humidifier turns on
 
--If humidity ≤ 50% → the humidifier turns off
+- If humidity ≤ 50% → the humidifier turns off
 
 This helps maintain a comfortable environment for students.
 
@@ -86,11 +86,11 @@ This helps maintain a comfortable environment for students.
 The IT control room includes a smart door security system with an RFID card reader.
 The system has three statuses:
 
--Valid
+- Valid
 
--Invalid
+- Invalid
 
--Waiting
+- Waiting
 
 The door unlocks only when the card ID is greater than 1000.
 If the card ID is 1000 or lower, the door remains locked.
@@ -106,28 +106,28 @@ To verify that the system works correctly, several tests were performed.
 First, the network connectivity was tested by sending ping requests between computers using their IP addresses.
 Then the IoT devices were tested using different triggers, such as:
 
--generating smoke to activate the fire detection system
+- generating smoke to activate the fire detection system
 
--creating motion near the motion sensor
+- creating motion near the motion sensor
 
--adjusting temperature and humidity levels
+- adjusting temperature and humidity levels
 
--scanning RFID cards at the door reader
+- scanning RFID cards at the door reader
 
 All systems responded correctly according to the predefined conditions.
 
 ## Future Improvements
 Future improvements for the smart campus could include:
 
--smart parking systems
+- smart parking systems
 
--campus transportation tracking
+- campus transportation tracking
 
--virtual reality classrooms
+- virtual reality classrooms
 
--improved cybersecurity and encryption systems
+- improved cybersecurity and encryption systems
 
--accessibility technologies for students with disabilities.
+- accessibility technologies for students with disabilities.
 
 
 
