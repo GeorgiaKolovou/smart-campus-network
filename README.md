@@ -10,4 +10,4 @@ Technologies:
 - Cloud services
 ## Network Topology
 
-![Smart Campus Network](Smart_Campus_PT.png)
+![Smart Campus Network](Smart_Campus_PT.jpg)
